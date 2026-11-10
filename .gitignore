@@ -1,0 +1,9 @@
+# OS / editor artifacts
+.DS_Store
+Thumbs.db
+
+# Arduino / Proteus generated files
+*.hex
+*.elf
+*.log
+*.pdsbak
